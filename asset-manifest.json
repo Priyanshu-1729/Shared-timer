@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shared-timer/static/css/main.c3b475a6.css",
+    "main.js": "/Shared-timer/static/js/main.1e3cc044.js",
+    "static/js/453.ebcde135.chunk.js": "/Shared-timer/static/js/453.ebcde135.chunk.js",
+    "index.html": "/Shared-timer/index.html",
+    "main.c3b475a6.css.map": "/Shared-timer/static/css/main.c3b475a6.css.map",
+    "main.1e3cc044.js.map": "/Shared-timer/static/js/main.1e3cc044.js.map",
+    "453.ebcde135.chunk.js.map": "/Shared-timer/static/js/453.ebcde135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b475a6.css",
+    "static/js/main.1e3cc044.js"
+  ]
+}
