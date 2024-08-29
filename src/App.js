@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <div className="stopwatch-container left">
-        <Stopwatch name="Arya" />
+        <Stopwatch name="Arya" dbName="arya" />
       </div>
       <div className="stopwatch-container right">
-        <Stopwatch name="Priyanshu" />
+        <Stopwatch name="Priyanshu" dbName="priyanshu" />
       </div>
     </div>
   );
